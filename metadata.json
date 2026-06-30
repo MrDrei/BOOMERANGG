@@ -1,0 +1,6 @@
+{
+  "name": "BOOMERANG CORP",
+  "description": "Industrial packaging and food processing machinery engineered for efficiency, continuous operation, and global support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
