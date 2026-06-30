@@ -315,7 +315,7 @@ export const productsData: Product[] = [
     name: "ALFA Continuous Cooking & Frying Tunnel",
     shortName: "ALFA Cooking Equipment",
     category: "cooking",
-    imageUrl: "/src/assets/images/cooking_fryer_1781913347389.jpg",
+    imageUrl: "/images/cooking_fryer_1781913347389.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "1,200 kg/hr - 4,500 kg/hr",
@@ -336,7 +336,7 @@ export const productsData: Product[] = [
     name: "ALFA COMPLETE BBF LINE (Batter-Bread-Fry)",
     shortName: "ALFA COMPLETE BBF LINE",
     category: "cooking",
-    imageUrl: "/src/assets/images/bbf_hero_banner_1781913360914.jpg",
+    imageUrl: "/images/bbf_hero_banner_1781913360914.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "Up to 5,000 kg/hr finished output",
@@ -357,7 +357,7 @@ export const productsData: Product[] = [
     name: "ALFA AFM-600 Automatic Multi Forming Machine",
     shortName: "ALFA AFM-600 Forming",
     category: "forming",
-    imageUrl: "/src/assets/images/afm600_forming_1781913373962.jpg",
+    imageUrl: "/images/afm600_forming_1781913373962.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "50 to 100 strokes per minute",
@@ -378,7 +378,7 @@ export const productsData: Product[] = [
     name: "SSF256516 Single Spiral Freezer",
     shortName: "ALFA Single Spiral Freezer",
     category: "freezing",
-    imageUrl: "/src/assets/images/spiral_freezer_1781913387832.jpg",
+    imageUrl: "/images/spiral_freezer_1781913387832.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "1,500 kg/hr - 3,500 kg/hr continuous quick freezing",
@@ -399,7 +399,7 @@ export const productsData: Product[] = [
     name: "BM-250 High-Shear Automatic Batter Mixer",
     shortName: "BATTER MIXER / BATTER2",
     category: "battering",
-    imageUrl: "/src/assets/images/batter_mixer_1781913401011.jpg",
+    imageUrl: "/images/batter_mixer_1781913401011.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "250 Liters batch preparation mixing",
@@ -419,7 +419,7 @@ export const productsData: Product[] = [
     name: "ALFA BR-600 Automatic Breading Applicator",
     shortName: "BREADING MACHINE / SYSTEM",
     category: "breading",
-    imageUrl: "/src/assets/images/breading_applicator_1781913414270.jpg",
+    imageUrl: "/images/breading_applicator_1781913414270.jpg",
     isCustomAsset: true,
     specs: {
       beltWidth: "600 mm wire conveyor bed spacing",
@@ -439,7 +439,7 @@ export const productsData: Product[] = [
     name: "ES-120 High-Efficiency Evaporator Coil Systems",
     shortName: "EVAPORATOR SYSTEM",
     category: "evaporators",
-    imageUrl: "/src/assets/images/evap_coil_system_1781913426512.jpg",
+    imageUrl: "/images/evap_coil_system_1781913426512.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "120 kW cooling capacity rating at -40°C SST",
@@ -459,7 +459,7 @@ export const productsData: Product[] = [
     name: "BEVPACK B-12000 Rotary Canning & Seaming Bloc",
     shortName: "BEVPACK Canning System",
     category: "beverage",
-    imageUrl: "/src/assets/images/bevpack_canner_system_1781913716912.jpg",
+    imageUrl: "/images/bevpack_canner_system_1781913716912.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "6,000 to 12,000 cans/hour adjustable",
@@ -480,7 +480,7 @@ export const productsData: Product[] = [
     name: "HYDRO-FILL H-16000 Precision Carbonated Bottling System",
     shortName: "HYDRO-FILL Bottling Monobloc",
     category: "beverage",
-    imageUrl: "/src/assets/images/hydro_fill_bottling_1781913735813.jpg",
+    imageUrl: "/images/hydro_fill_bottling_1781913735813.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "8,000 to 16,000 bottles/hour",
@@ -501,7 +501,7 @@ export const productsData: Product[] = [
     name: "KINETIC K-30 High-Speed End-of-Line Case Packer",
     shortName: "KINETIC Case Packer",
     category: "beverage",
-    imageUrl: "/src/assets/images/kinetic_case_packer_1781913749395.jpg",
+    imageUrl: "/images/kinetic_case_packer_1781913749395.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "Up to 30 custom shippers or trays per minute",
@@ -522,7 +522,7 @@ export const productsData: Product[] = [
     name: "GRAVITAS G-8000 Gravity Wine & Spirits Bottling Bloc",
     shortName: "GRAVITAS Wine Bottler",
     category: "beverage",
-    imageUrl: "/src/assets/images/gravitas_wine_bottler_1781913763442.jpg",
+    imageUrl: "/images/gravitas_wine_bottler_1781913763442.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "4,000 to 8,000 glass bottles/hour",
@@ -543,7 +543,7 @@ export const productsData: Product[] = [
     name: "THERMO-PACK SW-40 Automatic Bundling & Shrink Tunnel",
     shortName: "THERMO-PACK Shrink Wrapper",
     category: "beverage",
-    imageUrl: "/src/assets/images/thermo_shrink_tunnel_1781913778389.jpg",
+    imageUrl: "/images/thermo_shrink_tunnel_1781913778389.jpg",
     isCustomAsset: true,
     specs: {
       capacity: "Up to 40 wrap cycles/minute for multi-packs",
