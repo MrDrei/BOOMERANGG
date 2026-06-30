@@ -1247,7 +1247,7 @@ export default function App() {
         {/* absolute background illustration overlay */}
         <div className="absolute inset-0">
           <img 
-            src="/BOOMERANGG/images/boomerang_hero_bg_1781913818080.jpg" 
+            src="images/boomerang_hero_bg_1781913818080.jpg" 
             alt="Precision industrial packaging engineering" 
             className="w-full h-full object-cover object-center opacity-30 filter grayscale"
             referrerPolicy="no-referrer"
